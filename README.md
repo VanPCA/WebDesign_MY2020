@@ -1,2 +1,4 @@
 # WebDesign_MY2020
-member:HuaCL,Vanpca,tou
+
+> CopyRight 2020 HuaCL,VanPCA,Tou
+> project of The 2nd Web Design Competition of NJUPT
